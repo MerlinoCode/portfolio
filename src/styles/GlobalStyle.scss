@@ -534,7 +534,7 @@ h5 {
     .tools-list {
         display: flex;
         gap: 4rem;
-        flex-wrap: nowrap;
+        flex-wrap: wrap;
         align-items: center;
 
         .tech {
@@ -660,6 +660,10 @@ footer {
         padding: 0;
     }
 
+    body {
+        padding: 0 5vw;
+    }
+
     .project-container {
         max-width: fit-content;
     }
@@ -700,27 +704,39 @@ footer {
     }
 
     .project-container {
-        margin: 2rem 1rem;
-        grid-template-columns: 1fr;
-        padding: 2rem 1.5rem;
+        margin: 3rem auto;
+        padding: 1.5rem;
         gap: 2rem;
+        align-items: center;
 
         .project-title h2 {
             font-size: 2rem;
+            text-align: center;
+        }
+
+        .project-description {
+            text-align: center;
         }
 
         .right-part {
             order: -1;
             aspect-ratio: 16/9;
+            width: 100%;
         }
 
         .project-tools .tools-list {
-            gap: 4rem;
+            gap: 2rem;
+            justify-content: center;
 
             .tech {
                 width: 38px;
                 height: 38px;
             }
+        }
+
+        .project-links {
+            justify-content: center;
+            width: 100%;
         }
     }
 
@@ -931,28 +947,42 @@ footer {
     }
 
     .project-container {
-        padding: 2.5rem;
+        padding: 1.5rem;
+        align-items: center;
 
         .project-header {
             grid-template-columns: 1fr;
             gap: 2rem;
+            width: 100%;
 
             .project-title h2 {
-                font-size: 2.5rem;
+                font-size: 1.8rem;
+                text-align: center;
             }
 
             .right-part {
                 order: -1;
+                width: 100%;
             }
+        }
+
+        .project-description {
+            text-align: center;
         }
 
         .project-tools .tools-list {
             gap: 4rem;
+            justify-content: center;
 
             .tech {
                 width: 35px;
                 height: 35px;
             }
+        }
+
+        .project-links {
+            justify-content: center;
+            width: 100%;
         }
     }
 }
