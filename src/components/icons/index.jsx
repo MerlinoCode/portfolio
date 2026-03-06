@@ -31,3 +31,5 @@ export { default as typeScript } from './TypeScript';
 export { default as valuelabs } from './ValueLabs';
 export { default as studioCode } from './VisualStudioCode';
 export { default as xCross } from './XCross';
+export { default as nextJs } from './NextJs';
+export { default as tailwind } from './Tailwind';

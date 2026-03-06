@@ -1,28 +1,24 @@
 {
-    "es": 
-    {
-        "navbar":
-        {
+    "es": {
+        "navbar": {
             "first_option": "SOBRE MI",
             "second_option": "HABILIDADES",
             "third_option": "EXPERIENCIA",
             "fourth_option": "PROYECTOS",
             "fifth_option": "ESPAÑOL"
         },
-        "presentation_card":
-        {
+        "presentation_card": {
             "salutation": "👋 ¡Hola! Mi nombre es",
             "profession": "Desarrollador Frontend",
             "short_description": "Entusiasta por la innovación y el diseño"
         },
-        "about_me_section":
-        {
-            "presentation":{
+        "about_me_section": {
+            "presentation": {
                 "0": "Nacido en Buenos Aires, Argentina, soy un desarrollador de páginas web apasionado por el diseño y el desarrollo a nivel front end.",
-                "1":  "Durante 2 años, he estado involucrado en el mantenimiento y desarrollo de aplicaciones web y siempre estoy abierto a seguir aprendiendo nuevos conceptos y lenguajes relacionados con el ámbito IT",
+                "1": "Durante 2 años, he estado involucrado en el mantenimiento y desarrollo de aplicaciones web y siempre estoy abierto a seguir aprendiendo nuevos conceptos y lenguajes relacionados con el ámbito IT",
                 "2": "Actualmente aspiro a poder involucrarme profesionalmente en algún proyecto a largo plazo, con el fin de continuar con mi proceso creativo de crear aplicaciones web con interfaces de usuario atractivas y únicas."
             },
-            "contact":{
+            "contact": {
                 "0": "Ponerse en contacto",
                 "1": "💡 Tienes un proyecto o alguna idea que necesite una página web?",
                 "2": "⭐ Puedo ayudarte con ello.",
@@ -30,95 +26,79 @@
                 "button_text": "Enviar mensaje"
             }
         },
-        "skill_section":
-        {
+        "skill_section": {
             "frontend": "Front End",
             "design": "Diseño",
             "others": "Otros"
         },
-        "experience_section":
-        {
-            "0":
-            {
+        "experience_section": {
+            "0": {
                 "title": "Desarrollador .NET Full Stack",
                 "company_name": "Neps - Soluciones Informáticas",
                 "job_description": "En mi primer experiencia laboral como Freelance, participé en varios proyectos, utilizando principalmente ASP.NET 5.0. Mi mayor logro fue haber cambiado el código de barras de todas las facturas electrónicas a código QR generado automáticamente, teniendo en cuenta los requisitos impuestos por la AFIP, como también cambio de diseño en base a un nuevo logo de la empresa.",
                 "date": "Enero/2021 - Agosto/2021 ( 8 meses )"
             },
-            "1":
-            {
+            "1": {
                 "title": "Desarrollador .NET Full Stack",
                 "company_name": "DevSpirit",
                 "job_description": "Como Freelance, he desarrollado y mantenido código para una aplicación web destinada a la gestión de datos de los alumnos y profesores de un instituto privado de educación secundaria a distancia. Colaboré cercanamente con otros desarrolladores para cumplir con los requisitos del cliente, y llevamos a cabo las reuniones con el mismo, recopilando detalladamente sus necesidades a fin de poder entregar un producto óptimo y eficiente.",
                 "date": "Diciembre/2021 - Septiembre/2022 ( 10 meses )"
             },
-            "2":
-            {
+            "2": {
                 "title": "Desarrollador Front End React",
                 "company_name": "Banco Galicia",
                 "job_description": "Estuve a cargo del mantenimiento de las secciones Home Banking y Refinanciaciones, utilizando Bricks, framework de uso exclusivo basado en React para el diseño y estructura de todas las aplicaciones web del Banco.",
                 "date": "Octubre/2022 - Marzo/2023 ( 6 meses )"
             },
-            "3":
-            {
+            "3": {
                 "title": "Ingeniero de Software Jr",
                 "company_name": "ValueLabs",
                 "job_description": "Mis responsabilidades fueron las de crear y actualizar documentación online del cliente en su plataforma de Confluence, cooperar con equipos de desarrollo a fin de solucionar los tickets creados por el usuario como también realizar un informe diario del estado de cada uno de los mismos. Por último haber podido contribuir con los Deployments del cliente realizando Smoke Testing.",
                 "date": "Noviembre/2023 - Mayo/2024 ( 7 meses )"
             }
         },
-        "projects":
-        {
-            "0":
-            {
-                "title": "Proximamente...",
+        "projects": {
+            "0": {
+                "title": "El Jardín de Bulbasaur",
                 "description": "La aplicación web ofrece información detallada sobre una atracción turística con temática pokemon. Permite al usuario ordenar, filtrar y mostrar información acerca de los diferentes tipos de Pokémon de la API."
             }
         },
-        "footer":
-        {
-            "first_line":
-            {
+        "footer": {
+            "first_line": {
                 "0": "Copyright ",
                 "1": " ❤️ Jonathan Leonel Merlino."
             },
-            "second_line":
-            {
+            "second_line": {
                 "0": "Diseñado con ",
                 "1": ". Construido con "
             },
-            "third_line": "Texto usado fueron Poppins e Inter."
+            "third_line": "Fuentes usadas: Poppins e Inter."
         },
-        "miscellaneous":
-        {
+        "miscellaneous": {
             "main_logo_title": "Volver al principio",
             "external_link_title": "Link Externo"
         }
     },
-    "en": 
-    {
-        "navbar":
-        {
+    "en": {
+        "navbar": {
             "first_option": "ABOUT ME",
             "second_option": "SKILLS",
             "third_option": "EXPERIENCE",
             "fourth_option": "PROJECTS",
-            "fifth_option":"ENGLISH"
+            "fifth_option": "ENGLISH"
         },
-        "presentation_card":
-        {
+        "presentation_card": {
             "salutation": "👋 ¡Hello! My name is",
             "profession": "Frontend Developer",
             "short_description": "Eager for innovation and design"
         },
-        "about_me_section":
-        {
-            "presentation":{
+        "about_me_section": {
+            "presentation": {
                 "0": "Born in Buenos Aires, Argentina, I'm a web developer passionate about design and front end development.",
-                "1":  "For 2 years, I've been involved in the maintenance and development of web applications and I'm always open to continue learning new concepts and languages related to the IT field.",
+                "1": "For 2 years, I've been involved in the maintenance and development of web applications and I'm always open to continue learning new concepts and languages related to the IT field.",
                 "2": "Currently I aspire to be professionally involved in a long term project, in order to continue my creative process of creating web applications with attractive and unique user interfaces."
             },
-            "contact":{
+            "contact": {
                 "0": "Get In Touch",
                 "1": "💡 Do you have a project or a great idea in need of a webpage?",
                 "2": "⭐ I can help you with that.",
@@ -126,69 +106,57 @@
                 "button_text": "Send message"
             }
         },
-        "skill_section":
-        {
+        "skill_section": {
             "frontend": "Front End",
             "design": "Design",
             "others": "Others"
         },
-        "experience_section":
-        {
-            "0":
-            {
+        "experience_section": {
+            "0": {
                 "title": ".NET Full Stack Developer",
                 "company_name": "Neps - Soluciones Informáticas",
                 "job_description": "In my first work experience as a Freelancer, I participated in various projects, mainly using ASP.NET 5.0. My greatest achievement was having changed the barcode of all electronic invoices to a dynamically generated QR code, taking into account the requirements imposed by the AFIP, as well as a design change based on a new company logo.",
                 "date": "January/2021 - August/2021 ( 8 months )"
             },
-            "1":
-            {
+            "1": {
                 "title": ".NET Full Stack Developer",
                 "company_name": "DevSpirit",
                 "job_description": "As a Freelancer, I have developed and maintained code for a web application aimed at managing the data of the students and teachers of a private institute for remote secondary education. I collaborated closely with other developers to meet the client's requirements, and we held meetings with the client, gathering their needs in detail in order to deliver an optimal and efficient product.",
                 "date": "December/2021 - September/2022 ( 10 months )"
             },
-            "2":
-            {
+            "2": {
                 "title": "Front End React Developer",
                 "company_name": "Banco Galicia",
                 "job_description": "I was in charge of maintaining the Home Banking and Refinancing sections, using Bricks, a private framework for exclusive use based on React for the design and structure of all the Bank's web applications.",
                 "date": "October/2022 - March/2023 ( 6 months )"
             },
-            "3":
-            {
+            "3": {
                 "title": "Jr Software Engineer",
                 "company_name": "ValueLabs",
                 "job_description": "My responsibilities were to create and update the client's online documentation in their Confluence platform, cooperate with development teams in order to solve the tickets created by the user as well as to make a daily report of the status of each one of them. Finally, I was able to contribute to the client's Deployments by performing Smoke Testing.",
                 "date": "November/2023 - May/2024 ( 7 months )"
             }
         },
-        "projects":
-        {
-            "0":
-            {
-                "title": "Coming soon...",
+        "projects": {
+            "0": {
+                "title": "Bulbasaur's Garden",
                 "description": "The web application provides detailed information about a Pokemon-themed tourist attraction. It allows the user to sort, filter and display information about the different types of Pokémon in the API."
             }
         },
-        "footer":
-        {
-            "first_line":
-            {
+        "footer": {
+            "first_line": {
                 "0": "Copyright ",
                 "1": " ❤️ Jonathan Leonel Merlino."
             },
-            "second_line":
-            {
+            "second_line": {
                 "0": "Designed with ",
                 "1": ". Built with "
             },
-            "third_line": "Text used were Poppins & Inter."
+            "third_line": "Fonts used: Poppins & Inter."
         },
-        "miscellaneous":
-        {
+        "miscellaneous": {
             "main_logo_desc": "Go back to the beginning",
             "external_link": "External Link"
-        }  
+        }
     }
 }
